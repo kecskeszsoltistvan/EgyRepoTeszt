@@ -16,4 +16,4 @@ Forrás: [Magyar elektronikus könyvtár](https://mek.oszk.hu/adatbazis/magyar-n
 - [x] Ennyi szöveg elég 
 - [ ] Megvan a 10 commit 
 - [ ] Van valamilyen elfogadható oldalam
-[^1]: Egy geometriai alakzat, amelynek 6 oldala van, és mindegyik egy paralelogrammát alkot.
+[^1]: Egy térbeli alakzat, amelyet 6 paralelogramma alkot.
