@@ -15,6 +15,6 @@ Kész fogalma
 : Olyan fizikai vagy szellemi termék, amelynek elkészítése már teljesen befejeződött, s amely úgy, ahogy van, máris használható, alkalmazható.
 Forrás: [Magyar elektronikus könyvtár](https://mek.oszk.hu/adatbazis/magyar-nyelv-ertelmezo-szotara/szotar.php?szo=K%C3%89SZ&offset=96&kezdobetu=K) 
 [](https://kecskeszsoltistvan.github.io/EgyRepoTeszt/)- [x] Ennyi szöveg elég 
-- [ ] Megvan a 10 commit 
-- [ ] Van valamilyen elfogadható oldalam
+- [x] Megvan a 10 commit 
+- [x] Van valamilyen elfogadható oldalam
 [^1]: Egy térbeli alakzat, amelyet 6 paralelogramma alkot.
